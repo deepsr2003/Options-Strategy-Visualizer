@@ -2,11 +2,16 @@
 
 A sophisticated quantitative finance tool built with Python to model and visualize two critical aspects of options trading: strategy payoffs and market-implied volatility.
 
-![Payoff Diagram Screenshot](images/payoff_diagram.png)
-_Example: Payoff diagram for a sample Iron Condor strategy._
+Payoff Diagram Screenshot
+<img width="1395" height="834" alt="Screenshot 2025-08-14 at 8 10 53 PM" src="https://github.com/user-attachments/assets/a280db65-a875-4ca0-b9f9-6fa9633bf249" />
+<img width="1392" height="836" alt="Screenshot 2025-08-14 at 8 10 35 PM" src="https://github.com/user-attachments/assets/95a29d2a-59fa-4c8e-b8c6-e8707f3340dc" />
 
-![Volatility Surface Screenshot](images/volatility_surface.png)
-_Example: 3D Implied Volatility Surface for SPY._
+
+
+
+Volatility Surface Screenshot
+<img width="1394" height="836" alt="Screenshot 2025-08-14 at 8 11 13 PM" src="https://github.com/user-attachments/assets/19455a81-0d21-4e00-8a44-c02413fcb976" />
+
 
 ---
 
