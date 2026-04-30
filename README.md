@@ -53,7 +53,7 @@ This project showcases a deep understanding of concepts central to quantitative 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/deepsr2003/YOUR-REPO-NAME.git
+    git clone https://github.com/dsarkar10/YOUR-REPO-NAME.git
     cd YOUR-REPO-NAME
     ```
 
